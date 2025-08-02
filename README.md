@@ -16,7 +16,7 @@ An AI-powered farm irrigation system that predicts the ON/OFF status of 20 sprin
 - [Model Overview](#model-overview)
 - [Features](#features)
 - [Sample Use-Case](#sample-use-case)
--[Output Screenshots](#output-screenshots)
+ -[Output Screenshots](#output-screenshots)
 - [Future Scope](#future-scope)
 - [Acknowledgements](#acknowledgements)
 - [File Structure](#file-structure)
@@ -101,13 +101,6 @@ streamlit run app.py
 ```
 
 Then open the provided local URL in your browser to interact with the system.
-
----
-
-## Demo Link
-
-[Watch Demo Here](#)  
-*(Add link if deployed or recorded)*
 
 ---
 
