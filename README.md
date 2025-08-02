@@ -6,20 +6,20 @@ An AI-powered farm irrigation system that predicts the ON/OFF status of 20 sprin
 
 ## Table of Contents
 
-- [Problem Statement](#problem-statement)
-- [Objectives](#objectives)
-- [Proposed Solution](#proposed-solution)
-- [Architecture](#architecture)
-- [Tech Stack Used](#tech-stack-used)
-- [Installation Steps](#installation-steps)
-- [How to Run](#how-to-run)
-- [Model Overview](#model-overview)
-- [Features](#features)
-- [Sample Use-Case](#sample-use-case)
- -[Output Screenshots](#output-screenshots)
-- [Future Scope](#future-scope)
-- [Acknowledgements](#acknowledgements)
-- [File Structure](#file-structure)
+- [Problem Statement](#problem-statement)  
+- [Objectives](#objectives)  
+- [Proposed Solution](#proposed-solution)  
+- [Architecture](#architecture)  
+- [Tech Stack Used](#tech-stack-used)  
+- [Installation Steps](#installation-steps)  
+- [How to Run](#how-to-run)  
+- [Model Overview](#model-overview)  
+- [Features](#features)  
+- [Sample Use-Case](#sample-use-case)  
+- [Output Screenshots](#output-screenshots)  
+- [Future Scope](#future-scope)  
+- [Acknowledgements](#acknowledgements)  
+- [File Structure](#file-structure)  
 
 
 ---
