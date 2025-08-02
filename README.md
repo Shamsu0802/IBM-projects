@@ -157,7 +157,7 @@ After clicking the **Predict Sprinklers** button, the system displays the ON/OFF
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - **Edunet Foundation**
 - **AICTE**
