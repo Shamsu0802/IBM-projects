@@ -73,7 +73,7 @@ Streamlit Interface Output
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-sprinkler-system.git
+   git clone https://github.com/Shamsu0802/smart-sprinkler-system.git
    cd smart-sprinkler-system
    ```
 
